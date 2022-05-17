@@ -1,0 +1,8 @@
+
+.freecodecamp-logo-contenedor{
+    user-select: none;
+}
+
+.freecodecamp-logo-contenedor img{
+    pointer-events: none;
+}
